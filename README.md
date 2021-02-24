@@ -2,6 +2,7 @@
 This project (Project 2), and the next one (Project 3), will continue with the same theme introduced in Project 1 - namely, an implementation of the game of Nim. Please refer to the Project A specification for a description of the game and its rules.
 
 [Go to Project 1](https://github.com/ZavierYang/NimGame_project1)
+[Go to Project 3](https://github.com/ZavierYang/NimGame_project3)
 
 ## Key Knowledge Points Covered in Project 2:
 1. Design of the class structure for the project requires the knowledge of UML diagrams.
