@@ -5,7 +5,7 @@ This project (Project 2), and the next one (Project 3), will continue with the s
 
 ## Key Knowledge Points Covered in Project 2:
 1. Design of the class structure for the project requires the knowledge of UML diagrams.
-2. Implementation requires understanding of Classes and Arrays **Cannot use Arraylist**
+2. Implementation requires understanding of Classes and Arrays (**Cannot use Arraylist**)
 
 ## Requirements
 In this project, we introduce a third class NimGame. The game playing process is delegated from Nimsys  to NimGame. Since only one game will be active at any given time, only a single NimGame instance  is required at any time by Nimsys. Nimsys should also maintain a collection of players. Initially, this  collection will be empty - players will need to be added in order to play a game.
