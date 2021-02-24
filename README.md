@@ -119,7 +119,7 @@ The system is a text based interactive program that reads and executes commands 
           $1
           
           Game Over
-          XXX Skywalker wins!
+          XXX XXXXXX wins!
 
 ## Importance
 This is a project from a programming course (subject). If you came to watch because of your course (subject) assignment, do not just copy and paste this code otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
