@@ -40,7 +40,7 @@ The system is a text based interactive program that reads and executes commands 
         
           removeplayer username
     
-    * remove all player: enter removeplayer than display the second sentence.
+    * remove all player: enter removeplayer then display the second sentence.
     
         Syntax: 
         
@@ -69,7 +69,7 @@ The system is a text based interactive program that reads and executes commands 
   
       Syntax: 
   
-        rankings [asc|desc]
+          rankings [asc|desc]
   
       Example Execution:
     
@@ -82,8 +82,47 @@ The system is a text based interactive program that reads and executes commands 
       Syntax: 
       
           startgame initialstones,upperbound,username1,username2
-        
+      
+      Example of the game
+      
+          $startgame 10,3,X,Y
+          
+          Initial stone count: 10
+          Maximum stone removal: 3
+          Player 1: XXX XXXXXX
+          Player 2: YYY YYYYYY
+          
+          10 stones left: * * * * * * * * * *
+          XXX’s turn - remove how many?
+          $3
+          
+          7 stones left: * * * * * * *
+          YYY’s turn - remove how many?
+          $4
+          
+          Invalid move. You must remove between 1 and 3 stones.
+          7 stones left: * * * * * * *
+          YYY’s turn - remove how many?
+          $3
+          
+          4 stones left: * * * *
+          XXX’s turn - remove how many?
+          $3
+          
+          1 stones left: *
+          YYY’s turn - remove how many?
+          $0
+          
+          Invalid move. You must remove between 1 and 1 stones.
+          1 stones left: *
+          YYY’s turn - remove how many?
+          $1
+          
+          Game Over
+          XXX Skywalker wins!
 
+## Importance
+This is a project from a programming course (subject). If you came to watch because of your course (subject) assignment, do not just copy and paste this code otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
 
 
 
