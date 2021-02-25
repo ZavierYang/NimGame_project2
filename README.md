@@ -1,12 +1,12 @@
+# Importance
+This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
+
 # NimGame_project2
 This project (Project 2), and the next one (Project 3), will continue with the same theme introduced in Project 1 - namely, an implementation of the game of Nim. Please refer to the Project A specification for a description of the game and its rules.
 
 [Go to Project 1](https://github.com/ZavierYang/NimGame_project1)
 
 [Go to Project 3](https://github.com/ZavierYang/NimGame_project3)
-
-## Importance
-This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
 
 ## Key Knowledge Points Covered in Project 2:
 1. Design of the class structure for the project requires the knowledge of UML diagrams.
