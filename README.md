@@ -5,6 +5,9 @@ This project (Project 2), and the next one (Project 3), will continue with the s
 
 [Go to Project 3](https://github.com/ZavierYang/NimGame_project3)
 
+## Importance
+This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
+
 ## Key Knowledge Points Covered in Project 2:
 1. Design of the class structure for the project requires the knowledge of UML diagrams.
 2. Implementation requires understanding of Classes and Arrays (**Cannot use Arraylist**)
@@ -122,9 +125,6 @@ The system is a text based interactive program that reads and executes commands 
           
           Game Over
           XXX XXXXXX wins!
-
-## Importance
-This is a project from a programming course (subject). If you come to watch because of your course (subject) assignment, do not just copy and paste this code or just modify the variables name otherwise your score is possible to be penalised. Moreover, this project is divided into three parts and is completed with the progress of the course (subject). Therefore, different JAVA concepts will not be implemented in the same part and the difficulty will be different.
 
 ## Source
 University of Melbourne COMP90041 Subject
